@@ -7,29 +7,29 @@
     <chunk name="Container">
       <items count="8">
         <item name="Description" type_name="gh_string" type_code="10">A panel for custom notes and text values</item>
-        <item name="InstanceGuid" type_name="gh_guid" type_code="9">a12c4ecd-a76e-475e-a9be-265cfc0b5ff1</item>
+        <item name="InstanceGuid" type_name="gh_guid" type_code="9">c9d17d29-c7e6-447e-bce4-0f944a1e6f5d</item>
         <item name="Name" type_name="gh_string" type_code="10">Panel</item>
         <item name="NickName" type_name="gh_string" type_code="10"></item>
         <item name="Optional" type_name="gh_bool" type_code="1">false</item>
         <item name="ScrollRatio" type_name="gh_double" type_code="6">0</item>
         <item name="SourceCount" type_name="gh_int32" type_code="3">0</item>
-        <item name="UserText" type_name="gh_string" type_code="10">5</item>
+        <item name="UserText" type_name="gh_string" type_code="10">6</item>
       </items>
       <chunks count="2">
         <chunk name="Attributes">
           <items count="5">
             <item name="Bounds" type_name="gh_drawing_rectanglef" type_code="35">
-              <X>1741</X>
-              <Y>832</Y>
-              <W>151</W>
-              <H>100</H>
+              <X>431</X>
+              <Y>205</Y>
+              <W>83</W>
+              <H>31</H>
             </item>
             <item name="MarginLeft" type_name="gh_int32" type_code="3">0</item>
             <item name="MarginRight" type_name="gh_int32" type_code="3">0</item>
             <item name="MarginTop" type_name="gh_int32" type_code="3">0</item>
             <item name="Pivot" type_name="gh_drawing_pointf" type_code="31">
-              <X>1741.647</X>
-              <Y>832.4523</Y>
+              <X>431.0099</X>
+              <Y>205.644</Y>
             </item>
           </items>
         </chunk>
